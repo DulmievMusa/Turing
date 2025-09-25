@@ -1,0 +1,7 @@
+skip_first:'1'=>skip_first:'1'>
+skip_first:' '=>skip_second:'1'>
+skip_second:'1'=>skip_second:'1'>
+skip_second:' '=>erase_last:' '<
+erase_last:'1'=>return:' '<
+return:'1'=>return:'1'<
+return:' '=>end:' '>
